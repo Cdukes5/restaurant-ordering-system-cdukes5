@@ -1,0 +1,9 @@
+C:\Users\c3d3w\Documents\GitHub\ordering-system-project\bin\Debug\TheResturant.exe.config
+C:\Users\c3d3w\Documents\GitHub\ordering-system-project\bin\Debug\TheResturant.exe
+C:\Users\c3d3w\Documents\GitHub\ordering-system-project\bin\Debug\TheResturant.pdb
+C:\Users\c3d3w\Documents\GitHub\ordering-system-project\obj\Debug\TheResturant.csproj.AssemblyReference.cache
+C:\Users\c3d3w\Documents\GitHub\ordering-system-project\obj\Debug\TheResturant.Properties.Resources.resources
+C:\Users\c3d3w\Documents\GitHub\ordering-system-project\obj\Debug\TheResturant.csproj.GenerateResource.cache
+C:\Users\c3d3w\Documents\GitHub\ordering-system-project\obj\Debug\TheResturant.csproj.CoreCompileInputs.cache
+C:\Users\c3d3w\Documents\GitHub\ordering-system-project\obj\Debug\TheResturant.exe
+C:\Users\c3d3w\Documents\GitHub\ordering-system-project\obj\Debug\TheResturant.pdb
